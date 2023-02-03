@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Bitacora de clases</title>
+     
+</head>
+<body>
+    <h1 style= text-align:center>Bitacora de clases</h1>
+    <h3 ALIGN=RIGHT>01/02/2023</h3>
+    <h2 ALIGN=LEEF>HTML:</h2>
+    <P>El HTML es un estandar, HTML 5 es la quinta revisión importante del lenguaje básico de la World Wide Web, HTML. HTML5 específica dos variantes de sintaxis para HTML: una «clásica», HTML, conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML 5 que deberá servirse con sintaxis XML. 
+        Estructura del documento HTML5
+        En HTML existe un esqueleto básico, que todos debemos de conocer porque se viene usando desde los inicios del lenguaje. Nos referimos a la conocida estructura del HEAD / BODY. Toda jerarquía de etiquetas comienza por <HTML> y dentro tenemos dos grandes bloques <HEAD> y <BODY> .
+        Nuevas etiquetas semánticas para estructurar los documentos HTML, destinadas a remplazar la necesidad de tener una etiqueta <div> que identifique cada bloque de la página.
+        Los nuevos elementos multimedia como <audio> y <video> .
+    </P>
+    
+</body>
+</html>
