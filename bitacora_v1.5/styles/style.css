@@ -1,0 +1,76 @@
+/*Aqui se pone de que tamaño de quieren las letras y el tipo de letra en html */
+html {
+  font-size:28px;/*px quiere decir ´pixeles´:el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+  font-family: Georgia, 'Times New Roman', Times, serif;/*Este debe ser el resto del resultado que obtuviste de Google fonts*/
+}
+
+/*Esto es para el tamaño , el tipo de fuente, color del texto o letras ,*/
+body {
+  font-size:18px;/*px quiere decir ´pixeles´:el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+  font-family: Georgia, 'Times New Roman', Times, serif;/*Este debe ser el resto del resultado que obtuviste de Google fonts*/
+  color:black ;
+  
+}
+
+/*Esto Es para el fondo de la pagina*/
+Body {background-color: #F3F3F3;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23deedeb' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23c8e6e3' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23b3e0dc' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%239dd9d4' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%2388D3CC' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+h3{
+  align-items: right ;
+  justify-self: unset;
+}
+
+
+/*A estas clases, se centra todo loq que contnga la caja */
+.html, .GitHub, .Css, .Css, .diseño, .inicio, .password, .Analisis, .examen, .menu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 50px 0;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+ 
+
+/*Esto hace que a los h1 tengan sierto tipo de de fuente, tamaño, pocicion, y el color del texto*/
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #1d1d1d;
+  text-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+  
+}
+
+
+
+/*Este p es pata el tamaño de la fuente, el interlineado del texto*/
+p, li {
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+
+}
+
+
+
+
+  
+  
+
+
+
+
+  
+  
